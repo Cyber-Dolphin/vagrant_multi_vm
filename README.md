@@ -1,6 +1,6 @@
 # Vagrant multi VM
 
-Get start all:
+Get start all VM:
 
 vagrant up
 
