@@ -20,6 +20,10 @@ Connect ssh:
 
 vagrant ssh <VM_NAME>
 
+Example:
+
+vagrant ssh slave-node-1
+
 ---
 
 Stop VM:
